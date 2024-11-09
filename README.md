@@ -42,6 +42,10 @@ The dataset includes the following columns:
 
 ## Tools Used:
 
-- **SQL** 
+- **SQL**
+
+## Limitations:
+- **Missing Data:** Certain records had missing values for critical columns such as percentage_laid_off or funds_raised_millions, which required assumptions or imputations.
+- **Economic Factors Not Accounted For:** External factors such as economic downturns or industry-specific crises (e.g., the COVID-19 pandemic) may have impacted layoff trends but are not included in the dataset.
 
 
